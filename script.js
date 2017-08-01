@@ -1,1 +1,3 @@
-console.log('bla');
+console.log('bla'fkjstghskgh);
+alert(sdfhgadfg)
+zdfhdafzdfz
